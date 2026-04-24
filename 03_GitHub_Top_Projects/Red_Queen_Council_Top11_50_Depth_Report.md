@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Version:** This report has been fully translated into bilingual (Chinese/English) formats.
+
 # ⚔️ 星火计划 - 终局熔炉：红后议会 Top 11-50 深度演进及裁议报告
 
 **日期**：2026年4月22日  

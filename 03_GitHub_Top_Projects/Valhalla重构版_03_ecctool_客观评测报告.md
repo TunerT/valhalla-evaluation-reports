@@ -1,4 +1,7 @@
-# Valhalla 深度客观评测报告：ecc.tool (代码效率神器)
+> [!NOTE]
+> **🌍 Bilingual Version:** This report has been fully translated into bilingual (Chinese/English) formats.
+
+# Valhalla 深度客观评测报告 / Evaluation Report：ecc.tool (代码效率神器)
 > **评估定位**：特定领域的极客效能利器 / 代码生成分析基站
 
 ## 一、 评估方法论与客观指标基准 (Transparency Statement)

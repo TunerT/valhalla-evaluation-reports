@@ -1,4 +1,7 @@
-# 深度客观评测报告：大厂开源推演解析 (JupyterLab)
+> [!NOTE]
+> **🌍 Bilingual Version:** This report has been fully translated into bilingual (Chinese/English) formats.
+
+# 深度客观评测报告 / Evaluation Report：大厂开源推演解析 (JupyterLab)
 > **评估定位**：交互式数据科学与算法模型探索计算的元控制空间 / 架构创新性分析与安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)
 > **执行日期**：2026-04-22 

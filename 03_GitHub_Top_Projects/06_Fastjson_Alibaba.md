@@ -1,9 +1,12 @@
-# 🛡️ Valhalla-Matrix-Enterprise 评测报告
+> [!NOTE]
+> **🌍 Bilingual Version:** This report has been fully translated into bilingual (Chinese/English) formats.
+
+# 🛡️ Valhalla-Matrix-Enterprise 评测报告 / Evaluation Report
 
 ## 项目名称: Fastjson
-**组织:** Alibaba (阿里巴巴)
-**官网/仓库:** https://github.com/alibaba/fastjson
-**类别:** JSON 处理器 (Java)
+**组织 / Organization:** Alibaba (阿里巴巴)
+**官网/仓库 / Website/Repo:** https://github.com/alibaba/fastjson
+**类别 / Category:** JSON 处理器 (Java)
 
 ---
 
@@ -26,14 +29,14 @@
 
 ### 各项性能与质量量化考核评分 (Valhalla Matrix Metrics - 满分100)
 
-| 评测维度 | 分数 | 指标说明 |
+| 评测维度 / Evaluation Dimension | 分数 / Score | 指标说明 / Metric Description |
 | --- | --- | --- |
-| 架构设计 (Architecture) | **85** | 代码结构、设计模式先进性、技术债情况 |
-| 生态契合 (PMF) | **98** | 行业普及率、开发者生态黏性、不可替代度 |
-| 社区治理 (Governance) | **80** | 社区活跃度、开源协议健康度、PR审核机制 |
-| 执行性能 (Performance) | **99** | 峰值吞吐、内存与渲染效率、延迟时间 |
-| 高压稳定 (Stability) | **75** | 高压态稳定性、容灾表现、Issue缺陷率 |
-| **雷达图均分** | **87.4** | **量化评级：B** |
+| 架构设计 / Architecture Design (Architecture) | **85** | 代码结构、设计模式先进性、技术债情况 |
+| 生态契合 / Ecosystem Fit (PMF) | **98** | 行业普及率、开发者生态黏性、不可替代度 |
+| 社区治理 / Community Governance (Governance) | **80** | 社区活跃度、开源协议健康度、PR审核机制 |
+| 执行性能 / Execution Performance (Performance) | **99** | 峰值吞吐、内存与渲染效率、延迟时间 |
+| 高压稳定 / High-Pressure Stability (Stability) | **75** | 高压态稳定性、容灾表现、Issue缺陷率 |
+| **雷达图均分 / Radar Chart Average** | **87.4** | **量化评级：B** |
 
 **综合评级 (Valhalla Matrix Score): B+ (由于老版本庞大的安全与兼容债务减分)**
 *性能为王却经历过安全性噩梦的 Java 序列化利器。*

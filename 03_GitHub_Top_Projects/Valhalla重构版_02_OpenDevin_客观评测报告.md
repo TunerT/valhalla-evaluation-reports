@@ -1,4 +1,7 @@
-# Valhalla 深度客观评测报告：OpenDevin/OpenDevin
+> [!NOTE]
+> **🌍 Bilingual Version:** This report has been fully translated into bilingual (Chinese/English) formats.
+
+# Valhalla 深度客观评测报告 / Evaluation Report：OpenDevin/OpenDevin
 > **评估定位**：今日热度第一 / 全自动开源 AI 程序员及智能体环境
 
 ## 一、 评估方法论与客观指标基准 (Transparency Statement)

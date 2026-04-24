@@ -1,4 +1,7 @@
-# Valhalla 深度客观评测报告：karpathy/llm.c
+> [!NOTE]
+> **🌍 Bilingual Version:** This report has been fully translated into bilingual (Chinese/English) formats.
+
+# Valhalla 深度客观评测报告 / Evaluation Report：karpathy/llm.c
 > **评估定位**：GitHub 历史最快升星榜首 / 极致的 C 语言大模型训练基床
 
 ## 一、 评估方法论与客观指标基准 (Transparency Statement)
