@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # Project-Valhalla & Matrix 双轨评测内参：Gemma 4
 **评测对象**: Gemma 4 (新一代轻量级/高性能开源权重预训练模型)
 **评测基准**: 仅使用 Project-Valhalla-Pro（边界与安全防线）与 Valhalla-Matrix-Enterprise（商业矩阵与资产化）的业务标准。

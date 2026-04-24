@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # Valhalla 深度客观评测报告：Gemma 4 模型
 > **评估定位**：轻量级高性能开源权重模型 / 企业级本地化推理与安全审查基石
 

@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源今日最热代码 (Magentic-One)
 > **评估定位**：复杂多智能体统一编排系统 / 架构创新性分析与组网安全探讨
 

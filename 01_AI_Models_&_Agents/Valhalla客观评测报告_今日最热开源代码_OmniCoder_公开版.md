@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：GitHub 今日最热开源代码 (OmniCoder)
 > **评估定位**：全栈自动化开发智能体框架 / 极客级提效潜力与系统沙盒边界探讨
 

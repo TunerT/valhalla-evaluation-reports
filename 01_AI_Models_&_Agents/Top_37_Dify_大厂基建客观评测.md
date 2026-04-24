@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源推演解析 (Dify)
 > **评估定位**：企业级的大语言模型应用可视化低代码开发与编排平台 / 架构创新性分析与安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)

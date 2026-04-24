@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：开源大模型实践工具 (Karpathy Skills / LLM Utilities)
 > **评估定位**：轻量级大模型基础设施工具库 / 原子化能力构建与嵌入式隔离探讨
 

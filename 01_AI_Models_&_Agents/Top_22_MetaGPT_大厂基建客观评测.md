@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源今日最热代码 (MetaGPT)
 > **评估定位**：基于标准操作系统（SOP）的多智能体元编程框架 / 架构创新性分析与组网安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)

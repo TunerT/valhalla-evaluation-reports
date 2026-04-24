@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源今日最热代码 (BabyAGI)
 > **评估定位**：极短代码实现的无限任务派发与自我驱动智能体 / 架构创新性分析与组网安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)

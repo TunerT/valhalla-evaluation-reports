@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源今日最热代码 (Semantic Kernel)
 > **评估定位**：微软的企业级大型AI Copilot应用神经编排枢纽 / 架构创新性分析与组网安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)

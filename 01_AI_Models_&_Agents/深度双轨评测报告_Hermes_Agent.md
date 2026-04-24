@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：开源智能体项目 (Hermes Agent)
 > **评估定位**：函数调用型高阶执行智能体 / 极强工具扩展能力与自治沙盒隔离探讨
 

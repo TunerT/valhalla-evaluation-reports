@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # GitHub 外部项目双轨详细评测（ClawPanel 独立版本）
 
 ## 项目识别

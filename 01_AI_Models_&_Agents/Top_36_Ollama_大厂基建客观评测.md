@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源推演解析 (Ollama)
 > **评估定位**：极轻量级的本地大模型跨平台运行框架与镜像管理 / 架构创新性分析与安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)

@@ -1,3 +1,6 @@
+> [!NOTE]
+> **🌍 Bilingual Notice:** This is the Chinese original report. The English version is currently being translated. We welcome community PRs!
+
 # 深度客观评测报告：大厂开源推演解析 (OpenInterpreter)
 > **评估定位**：大语言模型原生本地代码解释与跨设备调度器 / 架构创新性分析与安全探讨
 > **评测节点**：高级安全研究组 (SecResearch Analysis)
